@@ -114,6 +114,7 @@ public class Duke {
                     System.out.println(endline);
                     continue;
                 }
+
                 if (parts[0].equals("delete")) {
                     try {
                         if (parts.length == 1) {
